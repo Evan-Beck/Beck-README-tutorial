@@ -1,5 +1,4 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
 function renderLicenseBadge(license) {
   // Added Apache 2.0 license link, return links for if the badge exists and an empty string. Repeated this for license link and section as well - Evan.
   if (license) {
