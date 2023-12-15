@@ -1,6 +1,6 @@
-# Beck README-tutorial
+# Beck-README-tutorial
 ## Description
-It is a project using node.js, trying to create a professional README using the inquirer.
+The goal of this project is to generate a command line function that accepts user input and puts it into the README.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -9,17 +9,21 @@ It is a project using node.js, trying to create a professional README using the 
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-The installation insructions require us to generate a professional README, that will also include the information entered into this terminal once submitted.
+There is a license required, using the inquirer package as well to generate the README, and creating functions in JavaScript to generate questions in the command line
 ## Usage
-It will be used on GitHub pages and submitted to the canvas portal as of now.
+I use this project in VSCode, gitbash, and github
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)
 ## License
 
     This project is licensed under the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0) - see the [LICENSE.md](LICENSE.md) file for details.
 ## Contributing
-Others will be able to contribute because this README will be public. The README will explain the apps use, how to be used, how to report issues and make contributions. This shows other contributors how to use this app.
+Others can contribute to the project by going to the GitHub repository
 ## Tests
-To run and verify these questions, ensuring they are added to the READMEand presented to the user when they node index.js in the terminal.
+The instructions are to open the terminal and type node index.js so they can access the command line and input their information to the questions they are presented with.
 ## Questions
 For questions, please contact [Evan-Beck](https://github.com/Evan-Beck) or email at ebeck703@gmail.com.
+
+
+## LINK TO WALKTHROUGH VIDEO 
+https://drive.google.com/file/d/14aFhJ0YRytaxuGE0KorEm_l9CgsvbKr5/view

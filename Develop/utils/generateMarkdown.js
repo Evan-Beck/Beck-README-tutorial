@@ -42,7 +42,6 @@ function generateMarkdown(data) {
   const testsSection = `## Tests\n${data.tests}\n`;
   const questionsSection = `## Questions\nFor questions, please contact [${data.username}](https://github.com/${data.username}) or email at ${data.email}.\n`;
  
-  // Combines all sections to form the complete README - Evan.
   return (
     titleSection +
     descriptionSection +
@@ -57,5 +56,8 @@ function generateMarkdown(data) {
     questionsSection
   );
 }
+
+  // Combines all sections to form the complete README - Evan.
+  
 
 module.exports = generateMarkdown;
